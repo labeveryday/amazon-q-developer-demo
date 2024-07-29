@@ -1,0 +1,3 @@
+# Cloudformation template to create an S3 bucket
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Template to create an S3 bucket
